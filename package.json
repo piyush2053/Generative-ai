@@ -1,7 +1,7 @@
 {
   "name": "gemini-ai",
   "version": "1.0.0",
-  "description": "AI ",
+  "description": "P-GEN is a generative AI API that can understand and respond to queries. It can also read images and answer questions about them.Query Response: Get intelligent responses to your text queries.Image Analysis: Upload images and receive detailed answers based on the image content.Integrate P-GEN into your applications to enhance user interactions with advanced AI capabilities.",
   "type": "module",
   "main": "index.js",
   "scripts": {

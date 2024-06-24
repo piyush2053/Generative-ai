@@ -9,6 +9,9 @@ Query Response: Get intelligent responses to your text queries.
 Image Analysis: Upload images and receive detailed answers based on the image content.
 ## Usage:
 Integrate P-GEN into your applications to enhance user interactions with advanced AI capabilities.
+```
+https://generative-ai-0y8e.onrender.com/askai?query="What is Capital of India ?"
+```
 
 ## Whom to Talk ?
 Piyush Patel
