@@ -14,5 +14,7 @@ https://generative-ai-0y8e.onrender.com/askai?query="What is Capital of India ?"
 ```
 
 ## Whom to Talk ?
-Piyush Patel
-piyushpatel2053@gmail.com
+<img src="./assets/ME.png" alt="Piyush Patel" style="width: 100px; height: 100px;border-radius: 50px; border:none">
+
+> Piyush Patel
+> piyushpatel2053@gmail.com
